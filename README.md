@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gourab Bhattacharjee</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<image aline="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fcoding-skills-loading-dk68v8z0hevjpuiv.html&psig=AOvVaw0Nds3koV6x3Se5jnehwga-&ust=1716954741473000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDRkoy5r4YDFQAAAAAdAAAAABAJ">
+<img src="coding-skills-loading.gif" aline="right" alt="coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourab-dve360&label=Profile%20views&color=0e75b6&style=flat" alt="gourab-dve360" /> </p>
 
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Be cool for fun 🥳🔥**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align ="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gourab_dve360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gourab_dve360" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gourab bhattacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourab bhattacharjee" height="30" width="40" /></a>

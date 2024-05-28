@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gourab Bhattacharjee</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-image aline="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fcoding-skills-loading-dk68v8z0hevjpuiv.html&psig=AOvVaw0Nds3koV6x3Se5jnehwga-&ust=1716954741473000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDRkoy5r4YDFQAAAAAdAAAAABAJ">
+<image aline="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fcoding-skills-loading-dk68v8z0hevjpuiv.html&psig=AOvVaw0Nds3koV6x3Se5jnehwga-&ust=1716954741473000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDRkoy5r4YDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourab-dve360&label=Profile%20views&color=0e75b6&style=flat" alt="gourab-dve360" /> </p>
 

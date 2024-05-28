@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gourab Bhattacharjee</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<img src="coding-skills-loading.gif" aline="right" alt="coding" width="400" >
+<img src="coding-skills-loading.gif" aline="center" alt="coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gourab-dve360&label=Profile%20views&color=0e75b6&style=flat" alt="gourab-dve360" /> </p>
 
